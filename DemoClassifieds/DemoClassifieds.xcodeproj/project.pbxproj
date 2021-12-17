@@ -661,7 +661,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Org.DemoClassifieds;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/aravind/Desktop/DemoClassifieds/DemoClassifieds/DemoClassifieds-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/DemoClassifieds/DemoClassifieds-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -684,7 +684,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Org.DemoClassifieds;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/aravind/Desktop/DemoClassifieds/DemoClassifieds/DemoClassifieds-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/DemoClassifieds/DemoClassifieds-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
